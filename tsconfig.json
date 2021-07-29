@@ -7,7 +7,8 @@
     "esModuleInterop": true,
     "strict": true,
     "noImplicitAny": false,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "typeRoots": [ "../node_modules/@types" ]
   },
   "files": [
     "./typings.d.ts"
