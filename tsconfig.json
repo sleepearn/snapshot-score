@@ -8,7 +8,7 @@
     "strict": true,
     "noImplicitAny": false,
     "resolveJsonModule": true,
-    "typeRoots": [ "../node_modules/@types" ]
+    "types": ["node"]
   },
   "files": [
     "./typings.d.ts"
